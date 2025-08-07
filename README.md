@@ -1,19 +1,18 @@
 # Smruti Ranjan Dash - TANDEMLOOP Screening Test
 Solutions to the Stage-1 Screening Test for the Full Stack Developer position at TANDEMLOOP, implemented in Java. Includes 4 basic programming problems covering calculator operations, number series generation, and data analysis using arrays.
 
-## 📌 Repository Overview
+## Repository Overview
 This repository contains the solutions to the **Stage-1 Screening Test** for the Full Stack Developer position at **TANDEMLOOP**.
 
-- 👨‍💻 **Language Used**: Java
-- 🧩 **Total Problems**: 4
-- 🗂️ **Package**: `com.TANDEMLOOP.ScreeningTest`
-- 🧠 **IDE Recommended**: Eclipse / IntelliJ / VS Code with Java
+- **Language Used**: Java
+- **Total Problems**: 4
+- **IDE Recommended**: Eclipse / IntelliJ / VS Code with Java
 
 ---
 
-## ✅ Problem Statements & Approach
+## Problem Statements & Approach
 
-### 🧮 Problem-1: Calculator using Class
+### Problem-1: Calculator using Class
 
 **File**: `Problem1.java`  
 **Description**: Takes two `double` inputs (`a`, `b`) and a string (`operation`) such as `Addition`, `Subtraction`, `Multiplication`, or `Division` and prints the result.  
@@ -21,7 +20,7 @@ This repository contains the solutions to the **Stage-1 Screening Test** for the
 
 ---
 
-### 🔢 Problem-2: Generate Odd Number Series (1, 3, 5, ...)
+### Problem-2: Generate Odd Number Series (1, 3, 5, ...)
 
 **File**: `Problem2.java`  
 **Description**: Takes one integer input `x` and prints the first `x` odd numbers starting from 1.  
@@ -31,7 +30,7 @@ Input: 4 → Output: `1, 3, 5, 7`
 
 ---
 
-### 🔁 Problem-3: Conditional Odd Series Based on Input
+### Problem-3: Conditional Odd Series Based on Input
 
 **File**: `Problem3.java`  
 **Description**: 
@@ -43,7 +42,7 @@ Input: 4 → Output: `1, 3, 5`
 
 ---
 
-### 📊 Problem-4: Count Multiples of 1-9
+### Problem-4: Count Multiples of 1-9
 
 **File**: `Problem4.java`  
 **Description**: 
@@ -56,7 +55,7 @@ Output: `1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1`
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 1. **Clone the Repository**
    ```bash
