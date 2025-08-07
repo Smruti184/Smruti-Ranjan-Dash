@@ -66,6 +66,7 @@ Output: `1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1`
    javac Problem1.java
    java com.TANDEMLOOP.ScreeningTest.Problem1
 3. **Or Run in IDE**
-   ```bash
-   Import the project as a Java package.
-   Run each main() method individually.
+   **Description**: 
+   - Import the project as a Java package.
+   - Run each main() method individually.
+
